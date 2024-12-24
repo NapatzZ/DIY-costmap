@@ -22,5 +22,3 @@ pip install numpy matplotlib imageio
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/costmap-path-planning.git
-cd costmap-path-planning
